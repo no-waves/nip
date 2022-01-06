@@ -1,5 +1,5 @@
 # Nimble IP
-A very simple package to get your public IP
+A very simple cross-platform package to get your public IP address
 
 ## Install as nimble package
 `nimble install https://github.com/no-waves/nip`
