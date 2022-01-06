@@ -12,7 +12,6 @@ compile with nim:
 `nim c -d:ssl -d:release nip.nim`
 
 ### To run
-`./nip`
+`cd nip && ./nip`
 
-or move/add to your path
-`nip`
+or move/add to your path and run `nip`
