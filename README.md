@@ -1,8 +1,13 @@
 # Nim IP
 A very simple cross-platform package to get your public IP address.
 
-## Install as nimble package
+## Install and use as nimble package
 `nimble install https://github.com/no-waves/nip`
+
+```
+import nip
+var ip = nip()
+```
 
 ## Install as standalone program
 clone the repo:
