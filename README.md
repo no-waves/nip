@@ -1,4 +1,4 @@
-# What is this?
+# Nimble IP
 A very simple package to get your public IP
 
 ## Install as nimble package
@@ -15,3 +15,6 @@ compile with nim:
 `cd nip && ./nip`
 
 or move/add to your path and run `nip`
+
+## Binaries
+I'll add some release binaries shortly
