@@ -12,6 +12,8 @@ proc nip*(): string =
     try:
         let response = client.getContent(source)
         result = response.strip()
+    except:
+        result = ""
     finally:
         client.close()
 
