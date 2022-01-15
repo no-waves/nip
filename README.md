@@ -1,5 +1,5 @@
 # Nim IP
-A very simple cross-platform package to get your public IP address.
+A very simple cross-platform package to get your public IPv4 address.
 
 ## Install and use as nim package
 `nimble install https://github.com/no-waves/nip`

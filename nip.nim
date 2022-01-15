@@ -4,7 +4,7 @@
 
 import std/[httpclient, strutils]
 
-const source = "https://icanhazip.com" # Use whatever
+const source = "https://ipv4.icanhazip.com" # Forces IPv4
 
 proc nip*(): string =
     ## Get the public IP address of the current host 
