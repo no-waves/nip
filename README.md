@@ -22,4 +22,4 @@ compile with nim:
 or move/add to your path and run `nip`
 
 ## Binaries
-I'll add some release binaries shortly
+Linux and Windows binaries currently available
